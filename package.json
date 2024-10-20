@@ -1,0 +1,11 @@
+{
+  "name": "phone-numbervalidator",
+  "version": "1.0.0",
+  "description": "to test phone number",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
